@@ -13,3 +13,14 @@
       alt = "Twitter Badge" />
   </a>
 </div>
+
+ ---
+### 👨🏻‍💻 About Me :
+
+- 👀 You can find me on discord like **Crisss#3180**
+
+- 🤔 Ask me about Python, HTML 5 and CSS
+
+- 👌 You can contact me through my email **cjpinzon30@gmail.com**
+
+- 🌱 I am currently learning programming

@@ -23,3 +23,10 @@
 - 👌 You can contact me through my email **cjpinzon30@gmail.com**
 
 - 🌱 I am currently learning programming
+
+<div align = "left">
+  <h3> 🔨 Lenguages and Tools: </h3>
+  <div>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title = "HTML5" alt = "HTML"
+    width = "40" heigth = "40" /> &nbsp;
+  </div>

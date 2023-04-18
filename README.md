@@ -9,7 +9,7 @@
       alt = "Instagram Badge" />
   </a>
     <a href = "https://twitter.com/Crisss_py" target = "_blank">
-    <img src = "https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCrisss_py" 
+    <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
       alt = "Twitter Badge" />
   </a>
 </div>

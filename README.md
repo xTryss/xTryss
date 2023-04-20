@@ -49,6 +49,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=xTryss&theme=discord-old-blurple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-[![xTryss's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtryssra&show_icons=true&theme=tokyonight)
+[![xTryss's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtryss&show_icons=true&theme=tokyonight)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xTryss&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)

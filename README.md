@@ -39,5 +39,6 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" alt = "git" width = "40" heigth = "40" /> 
 &nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" heigth = "40"/> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title = "Arduino" alt = "Arduino" width = "40" heigth =   "40" /> &nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" alt = "VSCODE" width = "40" heigth = "40"/> &nbsp;
   </div>

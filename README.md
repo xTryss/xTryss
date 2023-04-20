@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<div align = left>
  ---
 ### 👨🏻‍💻 About Me :
 - 👀 You can find me on discord like **Crisss#3180**
@@ -23,6 +24,7 @@
 - 👌 You can contact me through my email **cjpinzon30@gmail.com**
 
 - 🌱 I am currently learning programming
+</div>
 
 <div align = "left">
   <h3> 🔨 Lenguages and Tools: </h3>

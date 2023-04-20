@@ -34,10 +34,10 @@
 <div align = "left">
   <h3> 🔨 Lenguages and Tools: </h3>
   <div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title = "HTML5" alt = "HTML"width = "40" heigth = "40" /> &nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title = "CSS5" alt = "CCS" width = "40" heigth = "40" /> &nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title = "Git" alt = "git" width = "40" heigth = "40" /> &nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" heigth = "40" /> &nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" alt = "VSCODE" width = "40" heigth = "40" /> &nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GITHUB" alt = "GITHUB" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title = "HTML5" alt = "HTML" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CCS3" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" alt = "git" width = "40" heigth = "40" /> 
+&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" heigth = "40"/> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" alt = "VSCODE" width = "40" heigth = "40"/> &nbsp;
   </div>

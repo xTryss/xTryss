@@ -30,6 +30,6 @@
 <div align = "left">
   <h3> 🔨 Lenguages and Tools: </h3>
   <div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title = "HTML5" alt = "HTML"
-    width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title = "HTML5" alt = "HTML"width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title = "CSS5" alt = "CCS" width = "40" heigth = "40" /> &nbsp;
   </div>

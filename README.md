@@ -13,10 +13,12 @@
       alt = "Twitter Badge" />
   </a>
 </div>
-
+  
+---
+  
 <div align = left>
- ---
-### 👨🏻‍💻 About Me :
+
+👨🏻‍💻 About Me :
   
 - 👀 You can find me on discord like **Crisss#3180**
 
@@ -26,10 +28,16 @@
 
 - 🌱 I am currently learning programming
 </div>
+  
+---
 
 <div align = "left">
   <h3> 🔨 Lenguages and Tools: </h3>
   <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title = "HTML5" alt = "HTML"width = "40" heigth = "40" /> &nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title = "CSS5" alt = "CCS" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title = "Git" alt = "git" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" alt = "VSCODE" width = "40" heigth = "40" /> &nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GITHUB" alt = "GITHUB" width = "40" heigth = "40" /> &nbsp;
   </div>

@@ -20,9 +20,9 @@
 
 👨🏻‍💻 About Me :
   
-- 👀 You can find me on discord like **Crisss#3180**
+- 👀 You can find me on discord like **lmao.cris**
 
-- 🤔 Ask me about Python, HTML 5 and CSS
+- 🤔 Ask me about Python, JS
 
 - 👌 You can contact me through my email **cjpinzon30@gmail.com**
 
